@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 setup(
     name="Endpoint",
     version="0.0.1",
-    author="Ketan Gangal",
-    author_email="ketangangal98@gmail.com",
+    author="Tejan Gupta",
+    author_email="tejangupta8@gmail.com",
     packages=find_packages()
 )
